@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("hello");
+        Console.WriteLine("hello everyone");
     }
 
     static void greetWhite()
